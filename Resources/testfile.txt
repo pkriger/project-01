@@ -1,0 +1,1 @@
+Github only adds a directory with files in it. It's not a directory tracker. It's a file tracker. 
