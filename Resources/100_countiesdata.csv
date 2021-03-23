@@ -1,0 +1,99 @@
+date,county_x,state,fips,cases,deaths,county_y,county_ascii,county_fips,state_id,state_name,lat,lng,population
+2020-04-16,Frederick,Maryland,24021.0,504,29.0,Frederick,Frederick,24021,MD,Maryland,39.4722,-77.398,251422
+2020-07-31,Canadian,Oklahoma,40017.0,1009,5.0,Canadian,Canadian,40017,OK,Oklahoma,35.5424,-97.9824,140455
+2020-05-30,Dyer,Tennessee,47045.0,50,0.0,Dyer,Dyer,47045,TN,Tennessee,36.0591,-89.4138,37416
+2020-07-07,Bertie,North Carolina,37015.0,151,4.0,Bertie,Bertie,37015,NC,North Carolina,36.0662,-76.9787,19380
+2020-08-01,Thomas,Kansas,20193.0,32,0.0,Thomas,Thomas,20193,KS,Kansas,39.3509,-101.0556,7810
+2020-05-04,Douglas,Kansas,20045.0,51,0.0,Douglas,Douglas,20045,KS,Kansas,38.8847,-95.2926,120290
+2020-11-17,St. Francois,Missouri,29187.0,4248,36.0,St. Francois,St. Francois,29187,MO,Missouri,37.8102,-90.4722,66643
+2021-02-13,Santa Fe,New Mexico,35049.0,9644,127.0,Santa Fe,Santa Fe,35049,NM,New Mexico,35.5069,-105.9763,149293
+2021-03-17,Gibson,Tennessee,47053.0,6242,141.0,Gibson,Gibson,47053,TN,Tennessee,35.9966,-88.9326,49228
+2020-09-16,Coos,Oregon,41011.0,134,0.0,Coos,Coos,41011,OR,Oregon,43.1742,-124.0594,63686
+2021-01-17,Carson City,Nevada,32510.0,5515,91.0,Carson City,Carson City,32510,NV,Nevada,39.1512,-119.7474,54773
+2021-02-01,St. Clair,Michigan,26147.0,8269,231.0,St. Clair,St. Clair,26147,MI,Michigan,42.9341,-82.6805,159247
+2021-03-07,Yuma,Colorado,8125.0,723,17.0,Yuma,Yuma,8125,CO,Colorado,40.0029,-102.4242,10003
+2021-01-13,Gosper,Nebraska,31073.0,166,4.0,Gosper,Gosper,31073,NE,Nebraska,40.5148,-99.8307,2013
+2020-07-11,George,Mississippi,28039.0,116,3.0,George,George,28039,MS,Mississippi,30.8626,-88.644,23917
+2021-03-16,Harvey,Kansas,20079.0,3484,64.0,Harvey,Harvey,20079,KS,Kansas,38.0432,-97.4272,34503
+2020-09-02,Greenwood,South Carolina,45047.0,1877,51.0,Greenwood,Greenwood,45047,SC,South Carolina,34.1538,-82.1259,70411
+2020-10-02,Otero,Colorado,8089.0,103,6.0,Otero,Otero,8089,CO,Colorado,37.9026,-103.7165,18282
+2020-11-09,Vernon,Louisiana,22115.0,1157,56.0,Vernon,Vernon,22115,LA,Louisiana,31.1083,-93.1842,49646
+2020-08-04,Lyman,South Dakota,46085.0,88,2.0,Lyman,Lyman,46085,SD,South Dakota,43.8958,-99.8474,3848
+2020-11-17,Lyman,South Dakota,46085.0,381,7.0,Lyman,Lyman,46085,SD,South Dakota,43.8958,-99.8474,3848
+2020-06-04,Mineral,West Virginia,54057.0,48,1.0,Mineral,Mineral,54057,WV,West Virginia,39.4147,-78.9438,27167
+2020-06-14,Houston,Texas,48225.0,156,0.0,Houston,Houston,48225,TX,Texas,31.3177,-95.4227,22954
+2020-03-21,Outagamie,Wisconsin,55087.0,2,0.0,Outagamie,Outagamie,55087,WI,Wisconsin,44.4161,-88.4649,185700
+2020-11-08,Johnston,North Carolina,37101.0,6218,69.0,Johnston,Johnston,37101,NC,North Carolina,35.5178,-78.3657,196870
+2020-07-25,Kalkaska,Michigan,26079.0,49,4.0,Kalkaska,Kalkaska,26079,MI,Michigan,44.6847,-85.0902,17585
+2020-12-15,O'Brien,Iowa,19141.0,1464,45.0,O'Brien,O'Brien,19141,IA,Iowa,43.0838,-95.6249,13835
+2020-07-03,Tillman,Oklahoma,40141.0,24,1.0,Tillman,Tillman,40141,OK,Oklahoma,34.3728,-98.9242,7413
+2020-05-11,Nemaha,Kansas,20131.0,1,0.0,Nemaha,Nemaha,20131,KS,Kansas,39.7834,-96.0141,10121
+2021-01-31,Ellis,Kansas,20051.0,3463,61.0,Ellis,Ellis,20051,KS,Kansas,38.9147,-99.3173,28775
+2020-07-22,Haywood,Tennessee,47075.0,206,4.0,Haywood,Haywood,47075,TN,Tennessee,35.5832,-89.2838,17623
+2021-03-14,Thomas,Georgia,13275.0,4269,116.0,Thomas,Thomas,13275,GA,Georgia,30.8638,-83.9193,44630
+2020-09-19,Kenton,Kentucky,21117.0,1939,45.0,Kenton,Kenton,21117,KY,Kentucky,38.9334,-84.5333,165668
+2020-04-28,Kenton,Kentucky,21117.0,247,20.0,Kenton,Kenton,21117,KY,Kentucky,38.9334,-84.5333,165668
+2020-12-30,Llano,Texas,48299.0,647,11.0,Llano,Llano,48299,TX,Texas,30.7057,-98.6841,21047
+2021-02-19,Washita,Oklahoma,40149.0,1047,8.0,Washita,Washita,40149,OK,Oklahoma,35.2904,-98.9922,11225
+2020-07-14,Chippewa,Michigan,26033.0,22,0.0,Chippewa,Chippewa,26033,MI,Michigan,46.3053,-84.5777,37629
+2020-04-18,Nodaway,Missouri,29147.0,3,0.0,Nodaway,Nodaway,29147,MO,Missouri,40.3607,-94.8834,22359
+2020-11-16,Washington,Minnesota,27163.0,10689,95.0,Washington,Washington,27163,MN,Minnesota,45.0387,-92.8839,255938
+2020-10-02,Harlan,Nebraska,31083.0,25,0.0,Harlan,Harlan,31083,NE,Nebraska,40.1765,-99.4046,3415
+2021-01-13,Fayette,Kentucky,21067.0,26282,168.0,Fayette,Fayette,21067,KY,Kentucky,38.0423,-84.4587,320601
+2020-12-18,Pennington,South Dakota,46103.0,10379,123.0,Pennington,Pennington,46103,SD,South Dakota,44.0037,-102.8238,110685
+2020-06-22,Washington,Maryland,24043.0,611,25.0,Washington,Washington,24043,MD,Maryland,39.6036,-77.814,150109
+2020-11-08,Oneida,Wisconsin,55085.0,1612,19.0,Oneida,Oneida,55085,WI,Wisconsin,45.7056,-89.5218,35381
+2021-03-05,Pike,Ohio,39131.0,2167,28.0,Pike,Pike,39131,OH,Ohio,39.0773,-83.0668,28000
+2020-10-02,Cherokee,North Carolina,37039.0,665,12.0,Cherokee,Cherokee,37039,NC,North Carolina,35.1339,-84.0635,27969
+2020-11-07,Denver,Colorado,8031.0,22908,468.0,Denver,Denver,8031,CO,Colorado,39.7621,-104.8759,705576
+2020-08-29,Mayes,Oklahoma,40097.0,411,9.0,Mayes,Mayes,40097,OK,Oklahoma,36.3019,-95.2308,41044
+2020-11-18,Chenango,New York,36017.0,518,7.0,Chenango,Chenango,36017,NY,New York,42.4935,-75.6116,47909
+2020-08-02,Natchitoches,Louisiana,22069.0,687,17.0,Natchitoches,Natchitoches,22069,LA,Louisiana,31.7235,-93.0962,38769
+2020-08-18,Stewart,Tennessee,47161.0,85,0.0,Stewart,Stewart,47161,TN,Tennessee,36.5012,-87.8384,13427
+2021-02-03,Baldwin,Alabama,1003.0,18418,228.0,Baldwin,Baldwin,1003,AL,Alabama,30.7275,-87.7226,212830
+2020-11-22,Darlington,South Carolina,45031.0,2906,71.0,Darlington,Darlington,45031,SC,South Carolina,34.3325,-79.9577,67027
+2021-03-06,Rock,Wisconsin,55105.0,16008,173.0,Rock,Rock,55105,WI,Wisconsin,42.6712,-89.0716,162152
+2020-10-12,Hardee,Florida,12049.0,1457,11.0,Hardee,Hardee,12049,FL,Florida,27.4927,-81.81,27131
+2020-11-26,Page,Virginia,51139.0,567,32.0,Page,Page,51139,VA,Virginia,38.6194,-78.4844,23788
+2020-07-19,Page,Virginia,51139.0,316,23.0,Page,Page,51139,VA,Virginia,38.6194,-78.4844,23788
+2020-12-05,Jackson,South Dakota,46071.0,216,8.0,Jackson,Jackson,46071,SD,South Dakota,43.6943,-101.6281,3290
+2020-07-19,Fairfield,Connecticut,9001.0,17069,1395.0,Fairfield,Fairfield,9001,CT,Connecticut,41.2708,-73.3894,943926
+2020-06-08,Dillon,South Carolina,45033.0,189,4.0,Dillon,Dillon,45033,SC,South Carolina,34.3915,-79.3789,30689
+2020-06-27,Walton,Georgia,13297.0,381,28.0,Walton,Walton,13297,GA,Georgia,33.7816,-83.7339,91442
+2020-09-30,Queen Anne's,Maryland,24035.0,667,26.0,Queen Anne's,Queen Anne's,24035,MD,Maryland,39.068,-76.0203,49632
+2020-05-18,Brown,Texas,48049.0,51,7.0,Brown,Brown,48049,TX,Texas,31.7743,-98.9998,37855
+2021-01-12,Chautauqua,New York,36013.0,4926,40.0,Chautauqua,Chautauqua,36013,NY,New York,42.2282,-79.3663,128496
+2020-08-12,Worth,Iowa,19195.0,68,0.0,Worth,Worth,19195,IA,Iowa,43.3774,-93.2608,7445
+2020-05-09,Somerset,New Jersey,34035.0,3996,331.0,Somerset,Somerset,34035,NJ,New Jersey,40.5635,-74.6163,329838
+2020-09-28,Anchorage,Alaska,2020.0,4441,35.0,Anchorage,Anchorage,2020,AK,Alaska,61.1508,-149.1091,293531
+2020-11-09,King,Washington,53033.0,31263,845.0,King,King,53033,WA,Washington,47.4902,-121.8052,2195502
+2021-01-16,Throckmorton,Texas,48447.0,56,3.0,Throckmorton,Throckmorton,48447,TX,Texas,33.1775,-99.2124,1436
+2021-02-24,Carroll,Indiana,18015.0,1759,20.0,Carroll,Carroll,18015,IN,Indiana,40.5828,-86.5635,20074
+2020-11-11,Hamilton,Florida,12047.0,934,11.0,Hamilton,Hamilton,12047,FL,Florida,30.4964,-82.9479,14326
+2020-09-01,Teton,Idaho,16081.0,129,0.0,Teton,Teton,16081,ID,Idaho,43.7594,-111.2076,11426
+2020-10-21,Linn,Iowa,19113.0,5185,128.0,Linn,Linn,19113,IA,Iowa,42.079,-91.599,223861
+2021-02-15,Pipestone,Minnesota,27117.0,999,24.0,Pipestone,Pipestone,27117,MN,Minnesota,44.023,-96.2586,9191
+2020-06-15,Pulaski,Indiana,18131.0,54,1.0,Pulaski,Pulaski,18131,IN,Indiana,41.0419,-86.6988,12559
+2020-11-15,James City,Virginia,51095.0,1041,22.0,James City,James City,51095,VA,Virginia,37.3288,-76.7788,74916
+2020-08-09,Monroe,Wisconsin,55081.0,243,2.0,Monroe,Monroe,55081,WI,Wisconsin,43.9457,-90.6178,45771
+2020-11-29,Wahkiakum,Washington,53069.0,33,0.0,Wahkiakum,Wahkiakum,53069,WA,Washington,46.2918,-123.4244,4268
+2020-04-27,Lewis,Missouri,29111.0,6,1.0,Lewis,Lewis,29111,MO,Missouri,40.0969,-91.7221,9955
+2020-07-30,Butler,Nebraska,31023.0,54,0.0,Butler,Butler,31023,NE,Nebraska,41.2261,-97.1318,8029
+2020-10-12,Wapello,Iowa,19179.0,1432,60.0,Wapello,Wapello,19179,IA,Iowa,41.0306,-92.4095,35141
+2020-05-08,Linn,Oregon,41043.0,100,7.0,Linn,Linn,41043,OR,Oregon,44.4889,-122.535,125048
+2020-04-14,Osage,Kansas,20139.0,4,0.0,Osage,Osage,20139,KS,Kansas,38.6523,-95.7269,15881
+2020-11-29,Henderson,Texas,48213.0,2451,57.0,Henderson,Henderson,48213,TX,Texas,32.2119,-95.8536,81070
+2020-07-11,Cherokee,Alabama,1019.0,128,7.0,Cherokee,Cherokee,1019,AL,Alabama,34.1759,-85.6038,25903
+2020-08-01,Douglas,Colorado,8035.0,1624,59.0,Douglas,Douglas,8035,CO,Colorado,39.3297,-104.9296,336041
+2020-07-16,Belknap,New Hampshire,33001.0,95,3.0,Belknap,Belknap,33001,NH,New Hampshire,43.5179,-71.4227,60887
+2020-08-11,Hunterdon,New Jersey,34019.0,1205,126.0,Hunterdon,Hunterdon,34019,NJ,New Jersey,40.5673,-74.9122,124823
+2020-10-24,Crockett,Tennessee,47033.0,833,20.0,Crockett,Crockett,47033,TN,Tennessee,35.8135,-89.1395,14399
+2020-11-13,Milwaukee,Wisconsin,55079.0,57779,650.0,Milwaukee,Milwaukee,55079,WI,Wisconsin,43.0072,-87.9668,951226
+2020-09-20,Monroe,Ohio,39111.0,106,18.0,Monroe,Monroe,39111,OH,Ohio,39.7274,-81.0829,13942
+2021-02-21,Tooele,Utah,49045.0,6438,30.0,Tooele,Tooele,49045,UT,Utah,40.4488,-113.1311,67397
+2020-05-30,Tama,Iowa,19171.0,403,27.0,Tama,Tama,19171,IA,Iowa,42.0798,-92.5326,17032
+2020-09-25,Wadena,Minnesota,27159.0,68,0.0,Wadena,Wadena,27159,MN,Minnesota,46.5858,-94.9694,13654
+2020-10-01,Crittenden,Arkansas,5035.0,1983,46.0,Crittenden,Crittenden,5035,AR,Arkansas,35.2079,-90.3089,48672
+2020-08-03,Richland,South Carolina,45079.0,8040,141.0,Richland,Richland,45079,SC,South Carolina,34.0218,-80.9031,411357
+2020-10-10,Pike,Mississippi,28113.0,1297,55.0,Pike,Pike,28113,MS,Mississippi,31.1749,-90.4042,39532
+2021-02-14,Clarendon,South Carolina,45027.0,2808,91.0,Clarendon,Clarendon,45027,SC,South Carolina,33.6658,-80.2164,33957
