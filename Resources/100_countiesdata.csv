@@ -1,101 +1,101 @@
-date,county_x,state,fips,cases,deaths,county_y,county_ascii,county_fips,state_id,state_name,lat,lng,population
-2020-10-02,Chowan,North Carolina,37041.0,386,4.0,Chowan,Chowan,37041,NC,North Carolina,36.1508,-76.6079,14097
-2020-12-18,Letcher,Kentucky,21133.0,814,3.0,Letcher,Letcher,21133,KY,Kentucky,37.1212,-82.8553,22295
-2020-06-02,Hamilton,Illinois,17065.0,2,0.0,Hamilton,Hamilton,17065,IL,Illinois,38.0815,-88.5391,8176
-2020-07-26,Northampton,North Carolina,37131.0,256,16.0,Northampton,Northampton,37131,NC,North Carolina,36.4178,-77.3969,19946
-2021-02-03,Blaine,Idaho,16013.0,2003,14.0,Blaine,Blaine,16013,ID,Idaho,43.4119,-113.9802,22373
-2020-10-13,Jefferson,Louisiana,22051.0,18118,578.0,Jefferson,Jefferson,22051,LA,Louisiana,29.7872,-90.1274,434850
-2020-12-25,Sheridan,Kansas,20179.0,370,0.0,Sheridan,Sheridan,20179,KS,Kansas,39.3503,-100.4418,2506
-2020-11-12,Bolivar,Mississippi,28011.0,2202,82.0,Bolivar,Bolivar,28011,MS,Mississippi,33.7956,-90.8804,31848
-2021-01-02,Forest,Wisconsin,55041.0,916,24.0,Forest,Forest,55041,WI,Wisconsin,45.6673,-88.7704,8995
-2020-04-23,Martin,North Carolina,37117.0,12,0.0,Martin,Martin,37117,NC,North Carolina,35.8432,-77.1092,22849
-2020-08-19,Juniata,Pennsylvania,42067.0,140,6.0,Juniata,Juniata,42067,PA,Pennsylvania,40.5311,-77.4022,24624
-2020-06-16,Warren,New Jersey,34041.0,1205,140.0,Warren,Warren,34041,NJ,New Jersey,40.8572,-74.9973,105862
-2020-12-23,Cass,Minnesota,27021.0,1868,18.0,Cass,Cass,27021,MN,Minnesota,46.9496,-94.3254,29268
-2021-02-04,Spalding,Georgia,13255.0,5109,134.0,Spalding,Spalding,13255,GA,Georgia,33.2609,-84.2841,65306
-2020-06-14,Orange,North Carolina,37135.0,474,40.0,Orange,Orange,37135,NC,North Carolina,36.0611,-79.1207,144836
-2020-10-15,Franklin,Arkansas,5047.0,439,2.0,Franklin,Franklin,5047,AR,Arkansas,35.5123,-93.8906,17738
-2020-08-29,Grant,Oregon,41023.0,8,0.0,Grant,Grant,41023,OR,Oregon,44.4916,-119.0073,7189
-2021-03-04,Coconino,Arizona,4005.0,16648,315.0,Coconino,Coconino,4005,AZ,Arizona,35.8387,-111.7705,141274
-2020-10-24,Chesapeake city,Virginia,51550.0,4833,78.0,Chesapeake,Chesapeake,51550,VA,Virginia,36.6778,-76.3024,239982
-2020-07-20,Fairbanks North Star Borough,Alaska,2090.0,347,2.0,Fairbanks North Star,Fairbanks North Star,2090,AK,Alaska,64.8078,-146.5654,99072
-2020-08-26,Mahoning,Ohio,39099.0,2812,264.0,Mahoning,Mahoning,39099,OH,Ohio,41.0146,-80.7763,229961
-2021-02-02,Isabella,Michigan,26073.0,3857,69.0,Isabella,Isabella,26073,MI,Michigan,43.6406,-84.8468,70688
-2021-02-25,Rockbridge,Virginia,51163.0,1266,32.0,Rockbridge,Rockbridge,51163,VA,Virginia,37.8145,-79.4473,22570
-2020-05-12,Hale,Texas,48189.0,39,4.0,Hale,Hale,48189,TX,Texas,34.0705,-101.8269,33826
-2020-11-05,Wheeler,Texas,48483.0,128,0.0,Wheeler,Wheeler,48483,TX,Texas,35.4012,-100.2698,5338
-2020-07-08,Robertson,Kentucky,21201.0,1,0.0,Robertson,Robertson,21201,KY,Kentucky,38.5188,-84.052,2123
-2021-02-02,Ionia,Michigan,26067.0,6112,67.0,Ionia,Ionia,26067,MI,Michigan,42.9451,-85.0746,64300
-2020-12-03,Livingston,Illinois,17105.0,2387,38.0,Livingston,Livingston,17105,IL,Illinois,40.8916,-88.5577,36040
-2020-12-11,Todd,South Dakota,46121.0,1070,15.0,Todd,Todd,46121,SD,South Dakota,43.1934,-100.7185,10195
-2020-05-03,Dauphin,Pennsylvania,42043.0,634,28.0,Dauphin,Dauphin,42043,PA,Pennsylvania,40.4155,-76.7795,275632
-2020-06-04,Washington,Iowa,19183.0,195,8.0,Washington,Washington,19183,IA,Iowa,41.3356,-91.7179,22100
-2020-10-13,Geary,Kansas,20061.0,482,4.0,Geary,Geary,20061,KS,Kansas,39.0024,-96.7525,34025
-2021-01-20,Broward,Florida,12011.0,161624,1998.0,Broward,Broward,12011,FL,Florida,26.1523,-80.4871,1926205
-2020-12-18,Tallahatchie,Mississippi,28135.0,1121,29.0,Tallahatchie,Tallahatchie,28135,MS,Mississippi,33.9505,-90.1732,14158
-2020-11-09,Keweenaw,Michigan,26083.0,28,1.0,Keweenaw,Keweenaw,26083,MI,Michigan,47.6279,-88.4346,2111
-2020-10-25,Kearney,Nebraska,31099.0,255,0.0,Kearney,Kearney,31099,NE,Nebraska,40.5067,-98.948,6529
-2020-10-03,Ogemaw,Michigan,26129.0,69,5.0,Ogemaw,Ogemaw,26129,MI,Michigan,44.335,-84.1264,20898
-2020-02-24,San Diego,California,6073.0,1,0.0,San Diego,San Diego,6073,CA,California,33.0341,-116.7353,3316073
-2021-02-16,Wayne,Indiana,18177.0,6934,188.0,Wayne,Wayne,18177,IN,Indiana,39.8644,-85.0098,66342
-2020-08-06,Marshall,Indiana,18099.0,758,22.0,Marshall,Marshall,18099,IN,Indiana,41.3248,-86.2618,46461
-2020-06-19,Union,New Jersey,34039.0,16291,1131.0,Union,Union,34039,NJ,New Jersey,40.66,-74.3085,554033
-2020-04-23,Horry,South Carolina,45051.0,196,12.0,Horry,Horry,45051,SC,South Carolina,33.9215,-78.9965,332172
-2020-06-04,Marquette,Michigan,26103.0,56,11.0,Marquette,Marquette,26103,MI,Michigan,46.4314,-87.6416,66686
-2021-03-11,Androscoggin,Maine,23001.0,4946,57.0,Androscoggin,Androscoggin,23001,ME,Maine,44.1658,-70.2065,107602
-2020-10-06,Upshur,West Virginia,54097.0,127,0.0,Upshur,Upshur,54097,WV,West Virginia,38.8978,-80.2334,24502
-2020-04-29,Madison,Alabama,1089.0,224,4.0,Madison,Madison,1089,AL,Alabama,34.7631,-86.5502,362276
-2020-10-19,Claiborne,Louisiana,22027.0,586,24.0,Claiborne,Claiborne,22027,LA,Louisiana,32.8226,-92.9958,15985
-2020-07-13,Hamilton,Florida,12047.0,434,2.0,Hamilton,Hamilton,12047,FL,Florida,30.4964,-82.9479,14326
-2021-02-07,Hamilton,Florida,12047.0,1527,18.0,Hamilton,Hamilton,12047,FL,Florida,30.4964,-82.9479,14326
-2020-11-19,Avery,North Carolina,37011.0,834,3.0,Avery,Avery,37011,NC,North Carolina,36.0765,-81.9226,17506
-2020-07-31,Milam,Texas,48331.0,302,3.0,Milam,Milam,48331,TX,Texas,30.7863,-96.9768,24770
-2020-10-24,Rock,Nebraska,31149.0,55,1.0,Rock,Rock,31149,NE,Nebraska,42.4213,-99.4499,1414
-2020-08-22,Clatsop,Oregon,41007.0,93,0.0,Clatsop,Clatsop,41007,OR,Oregon,45.9951,-123.6558,39102
-2020-12-03,Hamilton,Iowa,19079.0,1195,14.0,Hamilton,Hamilton,19079,IA,Iowa,42.3838,-93.7068,14997
-2020-05-07,Beltrami,Minnesota,27007.0,6,0.0,Beltrami,Beltrami,27007,MN,Minnesota,47.9738,-94.9377,46403
-2021-02-19,Sublette,Wyoming,56035.0,671,7.0,Sublette,Sublette,56035,WY,Wyoming,42.7669,-109.9147,9880
-2021-03-13,Stevens,Minnesota,27149.0,757,9.0,Stevens,Stevens,27149,MN,Minnesota,45.5861,-96.0003,9789
-2020-08-12,Upshur,Texas,48459.0,257,2.0,Upshur,Upshur,48459,TX,Texas,32.7363,-94.9415,41018
-2020-11-23,Denver,Colorado,8031.0,33404,507.0,Denver,Denver,8031,CO,Colorado,39.7621,-104.8759,705576
-2020-08-16,Placer,California,6061.0,2600,28.0,Placer,Placer,6061,CA,California,39.0635,-120.7175,385512
-2020-10-24,Clay,Alabama,1027.0,741,12.0,Clay,Clay,1027,AL,Alabama,33.269,-85.8606,13337
-2021-01-09,Moore,Tennessee,47127.0,764,6.0,Moore,Moore,47127,TN,Tennessee,35.2846,-86.3587,6378
-2020-09-28,Cowlitz,Washington,53015.0,661,7.0,Cowlitz,Cowlitz,53015,WA,Washington,46.1932,-122.681,106778
-2020-11-25,Schuyler,Illinois,17169.0,257,1.0,Schuyler,Schuyler,17169,IL,Illinois,40.158,-90.6151,6953
-2020-09-06,Stevens,Kansas,20189.0,76,0.0,Stevens,Stevens,20189,KS,Kansas,37.1923,-101.3121,5603
-2020-04-07,Iberville,Louisiana,22047.0,160,8.0,Iberville,Iberville,22047,LA,Louisiana,30.2585,-91.3493,32822
-2020-06-23,Tippecanoe,Indiana,18157.0,544,9.0,Tippecanoe,Tippecanoe,18157,IN,Indiana,40.3886,-86.8941,191553
-2020-09-22,Andrews,Texas,48003.0,412,8.0,Andrews,Andrews,48003,TX,Texas,32.305,-102.6377,18036
-2020-07-31,Lafayette,Wisconsin,55065.0,103,0.0,Lafayette,Lafayette,55065,WI,Wisconsin,42.6605,-90.1317,16715
-2021-01-16,Sabine,Texas,48403.0,613,25.0,Sabine,Sabine,48403,TX,Texas,31.3432,-93.8517,10471
-2020-12-18,Davidson,North Carolina,37057.0,7182,67.0,Davidson,Davidson,37057,NC,North Carolina,35.7934,-80.2127,165381
-2021-01-14,Mellette,South Dakota,46095.0,230,2.0,Mellette,Mellette,46095,SD,South Dakota,43.5813,-100.76,2052
-2020-11-16,Lexington city,Virginia,51678.0,293,2.0,Lexington,Lexington,51678,VA,Virginia,37.7825,-79.444,7241
-2020-08-19,Jackson,Mississippi,28059.0,2594,50.0,Jackson,Jackson,28059,MS,Mississippi,30.5423,-88.6357,142376
-2020-09-08,Indiana,Pennsylvania,42063.0,472,11.0,Indiana,Indiana,42063,PA,Pennsylvania,40.6521,-79.0875,85032
-2020-08-07,Macon,Tennessee,47111.0,856,13.0,Macon,Macon,47111,TN,Tennessee,36.532,-86.0073,23842
-2020-07-09,Worth,Iowa,19195.0,21,0.0,Worth,Worth,19195,IA,Iowa,43.3774,-93.2608,7445
-2020-11-08,Franklin,Virginia,51067.0,1121,7.0,Franklin,Franklin,51067,VA,Virginia,36.992,-79.8811,56187
-2021-02-27,Marion,Iowa,19125.0,3379,69.0,Marion,Marion,19125,IA,Iowa,41.3344,-93.0994,33172
-2020-07-09,Van Buren,Michigan,26159.0,257,9.0,Van Buren,Van Buren,26159,MI,Michigan,42.2513,-86.0189,75358
-2020-12-27,Eddy,North Dakota,38027.0,395,6.0,Eddy,Eddy,38027,ND,North Dakota,47.7176,-98.9016,2301
-2020-08-15,Renville,North Dakota,38075.0,10,0.0,Renville,Renville,38075,ND,North Dakota,48.719,-101.6578,2442
-2020-12-29,Garrard,Kentucky,21079.0,929,4.0,Garrard,Garrard,21079,KY,Kentucky,37.6396,-84.5377,17445
-2020-04-15,Noxubee,Mississippi,28103.0,10,0.0,Noxubee,Noxubee,28103,MS,Mississippi,33.1101,-88.5697,10700
-2020-12-02,McKenzie,North Dakota,38053.0,898,7.0,McKenzie,McKenzie,38053,ND,North Dakota,47.7402,-103.3953,13334
-2021-02-27,Colonial Heights city,Virginia,51570.0,1344,41.0,Colonial Heights,Colonial Heights,51570,VA,Virginia,37.265,-77.3969,17428
-2020-07-17,Clark,Wisconsin,55019.0,130,7.0,Clark,Clark,55019,WI,Wisconsin,44.7347,-90.6121,34579
-2020-10-04,Mariposa,California,6043.0,76,2.0,Mariposa,Mariposa,6043,CA,California,37.5815,-119.9054,17420
-2020-08-20,New London,Connecticut,9011.0,1503,106.0,New London,New London,9011,CT,Connecticut,41.4866,-72.1015,267390
-2020-06-28,Dare,North Carolina,37055.0,43,1.0,Dare,Dare,37055,NC,North Carolina,35.7795,-75.798,36222
-2020-08-15,George,Mississippi,28039.0,637,9.0,George,George,28039,MS,Mississippi,30.8626,-88.644,23917
-2020-11-14,Churchill,Nevada,32001.0,517,4.0,Churchill,Churchill,32001,NV,Nevada,39.5809,-118.3358,24259
-2020-08-07,Cheshire,New Hampshire,33005.0,96,3.0,Cheshire,Cheshire,33005,NH,New Hampshire,42.9194,-72.2512,76042
-2020-04-30,Campbell,Wyoming,56005.0,24,0.0,Campbell,Campbell,56005,WY,Wyoming,44.2482,-105.5482,47409
-2020-04-17,Rush,Indiana,18139.0,20,1.0,Rush,Rush,18139,IN,Indiana,39.62,-85.4658,16641
-2020-08-27,Traverse,Minnesota,27155.0,21,0.0,Traverse,Traverse,27155,MN,Minnesota,45.7722,-96.4716,3311
-2020-12-15,Flathead,Montana,30029.0,8061,44.0,Flathead,Flathead,30029,MT,Montana,48.2951,-114.0497,99899
-2021-01-06,Randolph,Alabama,1111.0,1305,31.0,Randolph,Randolph,1111,AL,Alabama,33.2938,-85.4591,22647
-2020-09-09,Kanawha,West Virginia,54039.0,1753,47.0,Kanawha,Kanawha,54039,WV,West Virginia,38.3366,-81.5281,183279
-2020-06-05,Brevard,Florida,12009.0,439,13.0,Brevard,Brevard,12009,FL,Florida,28.2937,-80.7323,585507
+FIPS,county,county_ascii,county_fips,state_id,state_name,lat,lng,population
+31117.0,McPherson,McPherson,31117,NE,Nebraska,41.5682,-101.0605,395
+31105.0,Kimball,Kimball,31105,NE,Nebraska,41.1978,-103.7149,3633
+27013.0,Blue Earth,Blue Earth,27013,MN,Minnesota,44.0346,-94.067,66795
+41015.0,Curry,Curry,41015,OR,Oregon,42.4576,-124.1568,22650
+41033.0,Josephine,Josephine,41033,OR,Oregon,42.3655,-123.5555,86251
+8067.0,La Plata,La Plata,8067,CO,Colorado,37.2866,-107.8433,55617
+48319.0,Mason,Mason,48319,TX,Texas,30.7177,-99.2261,4186
+20135.0,Ness,Ness,20135,KS,Kansas,38.4794,-99.9161,2876
+36011.0,Cayuga,Cayuga,36011,NY,New York,42.9175,-76.5545,77425
+17017.0,Cass,Cass,17017,IL,Illinois,39.9735,-90.2474,12493
+37117.0,Martin,Martin,37117,NC,North Carolina,35.8432,-77.1092,22849
+20023.0,Cheyenne,Cheyenne,20023,KS,Kansas,39.7859,-101.7313,2665
+42085.0,Mercer,Mercer,42085,PA,Pennsylvania,41.3022,-80.2577,111518
+51029.0,Buckingham,Buckingham,51029,VA,Virginia,37.5722,-78.5288,17059
+55091.0,Pepin,Pepin,55091,WI,Wisconsin,44.5829,-92.0016,7265
+21103.0,Henry,Henry,21103,KY,Kentucky,38.4485,-85.1189,15911
+53009.0,Clallam,Clallam,53009,WA,Washington,48.0493,-123.928,75392
+32033.0,White Pine,White Pine,32033,NV,Nevada,39.4421,-114.9016,9679
+45007.0,Anderson,Anderson,45007,SC,South Carolina,34.5193,-82.6378,198064
+41021.0,Gilliam,Gilliam,41021,OR,Oregon,45.3783,-120.2108,1878
+38091.0,Steele,Steele,38091,ND,North Dakota,47.4562,-97.7246,1744
+51065.0,Fluvanna,Fluvanna,51065,VA,Virginia,37.8419,-78.2773,26594
+31185.0,York,York,31185,NE,Nebraska,40.8727,-97.5971,13745
+30073.0,Pondera,Pondera,30073,MT,Montana,48.2277,-112.2263,5994
+37139.0,Pasquotank,Pasquotank,37139,NC,North Carolina,36.2955,-76.284,39514
+22027.0,Claiborne,Claiborne,22027,LA,Louisiana,32.8226,-92.9958,15985
+48335.0,Mitchell,Mitchell,48335,TX,Texas,32.3062,-100.9211,8523
+39103.0,Medina,Medina,39103,OH,Ohio,41.1176,-81.8997,177980
+47005.0,Benton,Benton,47005,TN,Tennessee,36.0698,-88.0683,16140
+28149.0,Warren,Warren,28149,MS,Mississippi,32.3573,-90.852,46519
+13009.0,Baldwin,Baldwin,13009,GA,Georgia,33.0692,-83.2496,45111
+8107.0,Routt,Routt,8107,CO,Colorado,40.4851,-106.9913,25072
+8057.0,Jackson,Jackson,8057,CO,Colorado,40.6664,-106.3428,1261
+18051.0,Gibson,Gibson,18051,IN,Indiana,38.3119,-87.5846,33656
+37171.0,Surry,Surry,37171,NC,North Carolina,36.4148,-80.6881,71971
+39165.0,Warren,Warren,39165,OH,Ohio,39.4276,-84.1668,229132
+48497.0,Wise,Wise,48497,TX,Texas,33.2159,-97.6545,66290
+37055.0,Dare,Dare,37055,NC,North Carolina,35.7795,-75.798,36222
+5023.0,Cleburne,Cleburne,5023,AR,Arkansas,35.5381,-92.0267,25100
+46119.0,Sully,Sully,46119,SD,South Dakota,44.7156,-100.1322,1305
+48121.0,Denton,Denton,48121,TX,Texas,33.2052,-97.117,833822
+35047.0,San Miguel,San Miguel,35047,NM,New Mexico,35.4804,-104.8158,27738
+26041.0,Delta,Delta,26041,MI,Michigan,45.9191,-86.9242,36026
+20027.0,Clay,Clay,20027,KS,Kansas,39.3497,-97.1652,8082
+44003.0,Kent,Kent,44003,RI,Rhode Island,41.6722,-71.593,163869
+13007.0,Baker,Baker,13007,GA,Georgia,31.3262,-84.4447,3132
+40039.0,Custer,Custer,40039,OK,Oklahoma,35.6388,-99.0015,29152
+28037.0,Franklin,Franklin,28037,MS,Mississippi,31.4772,-90.8979,7733
+12041.0,Gilchrist,Gilchrist,12041,FL,Florida,29.7258,-82.8004,17953
+18019.0,Clark,Clark,18019,IN,Indiana,38.4772,-85.7073,116507
+20189.0,Stevens,Stevens,20189,KS,Kansas,37.1923,-101.3121,5603
+38055.0,McLean,McLean,38055,ND,North Dakota,47.6069,-101.3218,9584
+20043.0,Doniphan,Doniphan,20043,KS,Kansas,39.7881,-95.1468,7684
+42107.0,Schuylkill,Schuylkill,42107,PA,Pennsylvania,40.7058,-76.216,142674
+38019.0,Cavalier,Cavalier,38019,ND,North Dakota,48.7723,-98.4648,3803
+21055.0,Crittenden,Crittenden,21055,KY,Kentucky,37.3527,-88.0972,9000
+25003.0,Berkshire,Berkshire,25003,MA,Massachusetts,42.3707,-73.2064,126425
+48473.0,Waller,Waller,48473,TX,Texas,30.0108,-95.9877,51832
+48163.0,Frio,Frio,48163,TX,Texas,28.8678,-99.1082,19871
+35015.0,Eddy,Eddy,35015,NM,New Mexico,32.4715,-104.3043,57732
+48507.0,Zavala,Zavala,48507,TX,Texas,28.8662,-99.7606,12039
+45025.0,Chesterfield,Chesterfield,45025,SC,South Carolina,34.6398,-80.1587,45953
+21137.0,Lincoln,Lincoln,21137,KY,Kentucky,37.4554,-84.6608,24476
+55137.0,Waushara,Waushara,55137,WI,Wisconsin,44.1131,-89.2429,24193
+17077.0,Jackson,Jackson,17077,IL,Illinois,37.7851,-89.3821,57977
+37085.0,Harnett,Harnett,37085,NC,North Carolina,35.3686,-78.8694,132283
+8073.0,Lincoln,Lincoln,8073,CO,Colorado,38.9881,-103.514,5585
+35061.0,Valencia,Valencia,35061,NM,New Mexico,34.7155,-106.809,76027
+22043.0,Grant,Grant,22043,LA,Louisiana,31.5997,-92.5595,22340
+37051.0,Cumberland,Cumberland,37051,NC,North Carolina,35.0486,-78.8276,332861
+18001.0,Adams,Adams,18001,IN,Indiana,40.7457,-84.9366,35376
+26095.0,Luce,Luce,26095,MI,Michigan,46.4707,-85.5444,6338
+21195.0,Pike,Pike,21195,KY,Kentucky,37.4691,-82.3958,59497
+30075.0,Powder River,Powder River,30075,MT,Montana,45.395,-105.6302,1607
+32005.0,Douglas,Douglas,32005,NV,Nevada,38.9122,-119.6164,48132
+20177.0,Shawnee,Shawnee,20177,KS,Kansas,39.0415,-95.7565,177852
+20061.0,Geary,Geary,20061,KS,Kansas,39.0024,-96.7525,34025
+20155.0,Reno,Reno,20155,KS,Kansas,37.953,-98.086,62765
+26003.0,Alger,Alger,26003,MI,Michigan,46.4086,-86.604,9151
+28133.0,Sunflower,Sunflower,28133,MS,Mississippi,33.6023,-90.5886,26168
+27111.0,Otter Tail,Otter Tail,27111,MN,Minnesota,46.4088,-95.708,58195
+36109.0,Tompkins,Tompkins,36109,NY,New York,42.452,-76.4736,102642
+8091.0,Ouray,Ouray,8091,CO,Colorado,38.1555,-107.7693,4796
+24009.0,Calvert,Calvert,24009,MD,Maryland,38.5434,-76.5687,91511
+19067.0,Floyd,Floyd,19067,IA,Iowa,43.0599,-92.789,15786
+51021.0,Bland,Bland,51021,VA,Virginia,37.134,-81.1302,6388
+16087.0,Washington,Washington,16087,ID,Idaho,44.4524,-116.7847,10057
+31119.0,Madison,Madison,31119,NE,Nebraska,41.9167,-97.6008,35080
+5131.0,Sebastian,Sebastian,5131,AR,Arkansas,35.1993,-94.2742,127591
+21209.0,Scott,Scott,21209,KY,Kentucky,38.2915,-84.5839,54667
+2122.0,Kenai Peninsula,Kenai Peninsula,2122,AK,Alaska,60.2654,-151.5652,58464
+29095.0,Jackson,Jackson,29095,MO,Missouri,39.0085,-94.3461,696216
+16075.0,Payette,Payette,16075,ID,Idaho,44.0067,-116.7608,23260
+54081.0,Raleigh,Raleigh,54081,WV,West Virginia,37.7714,-81.2486,75252
+35003.0,Catron,Catron,35003,NM,New Mexico,33.9152,-108.4046,3526
+8089.0,Otero,Otero,8089,CO,Colorado,37.9026,-103.7165,18282
+42031.0,Clarion,Clarion,42031,PA,Pennsylvania,41.1924,-79.421,38715
+16041.0,Franklin,Franklin,16041,ID,Idaho,42.1811,-111.8132,13464
+53031.0,Jefferson,Jefferson,53031,WA,Washington,47.7489,-123.5952,31285
+50023.0,Washington,Washington,50023,VT,Vermont,44.2734,-72.6149,58350
