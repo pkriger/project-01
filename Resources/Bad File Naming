@@ -1,0 +1,3 @@
+100_counties = 100 randomly selected county codes
+100_countiesdata = 100_counties + Lat, Long, State, Population
+countydata = All US Counties: County, Lat, Long, State, Population
